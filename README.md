@@ -397,8 +397,8 @@ MIT License - free to use for personal and commercial projects.
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
+- GitHub: [@Xiaoyun Yin](https://github.com/XiaoyunYin)
+- LinkedIn: [Xiaoyun Yin](https://www.linkedin.com/in/xiaoyun-yin)
 
 ---
 
