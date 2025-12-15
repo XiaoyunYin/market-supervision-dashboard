@@ -67,7 +67,7 @@ This project directly validates the following technical achievements:
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/market-supervision-dashboard.git
+git clone https://github.com/XiaoyunYin/market-supervision-dashboard.git
 cd market-supervision-dashboard
 ```
 
